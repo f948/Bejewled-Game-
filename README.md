@@ -2,6 +2,7 @@
 
 Description-A twist on the classic bejeweled game in which a player will try to connect enough of the same colored jewels in a row column or diagonal to make them disappear and score points.This game uses colored circles instead of jewels.
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=jepqsRuyPmE
 # Required
 
 A web browser to run the html file.
